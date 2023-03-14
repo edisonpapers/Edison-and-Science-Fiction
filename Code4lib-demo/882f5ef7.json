@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Lo\u00edza style vejigante mask make out of coco",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/882f5ef72da1ae80aaa671108828de2f8e5421b33db93b50effabd96840f575a",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1404.9112548828125,207.2278289794922,1099.1217041015625,880.2971954345703"
+      },
+      "id": "882f5ef7"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a6917426"
+  }
+]
