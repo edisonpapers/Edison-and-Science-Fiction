@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "This mask is made in the Ponce style, paper mache with many horns",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "http://zoomviewer.toolforge.org/iipsrv.fcgi/?iiif=cache/a0f96a66cab1c7153c896489b7c0bc06.tif",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:943.248779296875,857.1425170898438,2861.550537109375,2079.4163208007812"
+      },
+      "id": "e337e60a"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "7de90bc3"
+  }
+]
