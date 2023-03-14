@@ -163,4 +163,5 @@ An even more dubious device was described in the April 1963 issue of Fate. The a
 
 A third device known as the psychophone was also attributed to Edison.  However, this was debunked on an episode of the PBS show History Detectives, which drew on research by the staff of the Edison Papers.
 
-.ve-iframe https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1xuY4upIooEeszZ_lCmeNx24eSFWe0rHe9ZdqH2xqVNk&amp;amp;font=Default&amp;amp;lang=en&amp;amp;initial_zoom=2&amp;amp;height=100%
+.ve-iframe https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Uy2vBtk91eC9EV2pfysvVl-Q5c9yGdfuSfGd2Mdj4BI&#038;font=Bitter-Raleway&#038;lang=en&#038;initial_zoom=2&#038;height=650
+
