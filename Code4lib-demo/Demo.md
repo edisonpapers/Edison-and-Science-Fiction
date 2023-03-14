@@ -1,5 +1,7 @@
 # Demo.md
 
+.ve-media gh:edisonpapers/media/Scifi02.jpeg
+
 
 .ve-media wc:The_Bug_Peek.jpg left caption="Dynamic image"
 .ve-media wc:The_Bug_Peek.jpg right static caption="Static image"
@@ -9,7 +11,10 @@
 This is just a test of text. The ==vejigante masks made in Ponce=={1810,695,1287,965,9ab4ff48} are made of paper mache, as opposed to the Loíza masks which are made of cocos. 
 
 
+
 ## Interview {.video-text .show-active}
+
+.ve-media default:https%3A//archive.raicesculturalcenter.org/files/original/5cb7ac134697c9bf7551b2bf8f1a45f3.jpg
 
 ### Transcript for Muñoz's interview {.right .sticky .clear}
 
@@ -32,6 +37,8 @@ My name is José Gabriel Muñoz and I play the Puerto Rican cuatro. It’s used 
 Q507102
 
 # NEW SECTION
+
+.ve-media default:https%3A//archive.raicesculturalcenter.org/files/original/5cb7ac134697c9bf7551b2bf8f1a45f3.jpg
 
 ## Map test
 
