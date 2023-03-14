@@ -163,3 +163,19 @@ An even more dubious device was described in the April 1963 issue of Fate. The a
 
 A third device known as the psychophone was also attributed to Edison.  However, this was debunked on an episode of the PBS show History Detectives, which drew on research by the staff of the Edison Papers.
 
+.ve-media https://youtube.com/watch?v=CM5z6hWx5L0&si=EnSIkaIECMiOmarE sticky
+
+#### Transcript for Muñoz's interview
+
+----
+- José Gabriel Muñoz
+- Cuatrista
+- Interviewed by Nicole Wines and Francisco G. Gómez
+- October 20, 2019
+- Total Running Time: 1 hour, 2 minutes
+----
+
+00:00:00:11	JOSÉ GABRIEL MUÑOZ
+
+My name is José Gabriel Muñoz and I play the Puerto Rican cuatro. It’s used mostly for the folkloric music of Puerto Rico. I grew up listening to the music in my household. My dad would always play the music. I was born in Puerto Rico so I had those roots of the music and the culture was always in my family. And my dad would always play the music so growing up, I was always listening to it, it was always basically a part of me. But when I was about fourteen years old I saw someone play it in front of me for the first time, and it happened to be a young man, my same age, about fourteen-thirteen, fourteen, at the time, and that’s when it became palpable and real to me. Up until then it was listening to eight-tracks and cassettes, you know, the old guard of the music, as I would call it. And so, many young people, as myself at the time, would interpret that as just music for old people, music of my grandfathers, of my older uncles and such. It wasn’t the here and now, hip type music. Up until I watched this young man play, right in front of me, and it became alive to me, and from that moment on is where the interest grew.
+Q507102
