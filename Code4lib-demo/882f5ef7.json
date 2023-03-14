@@ -19,5 +19,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "a6917426"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Puerto Rican flag costume",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/882f5ef72da1ae80aaa671108828de2f8e5421b33db93b50effabd96840f575a",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:707.9180908203125,993.1419677734375,2280.4776611328125,1723.9393310546875"
+      },
+      "id": "882f5ef7"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "85d16b24"
   }
 ]
