@@ -8,5 +8,4 @@
 
 This is just a test of text. The ==vejigante masks made in Ponce=={1810,695,1287,965} are made of paper mache, as opposed to the Loíza masks which are made of cocos. 
 
-
 .ve-media wc:Vejigante_en_el_Museo_de_Arte_de_Puerto_Rico.jpg
