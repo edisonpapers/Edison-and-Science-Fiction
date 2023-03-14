@@ -25,7 +25,7 @@ This is just a test of text. The ==vejigante masks made in Ponce=={1810,695,1287
 .ve-media https://youtube.com/watch?v=CM5z6hWx5L0 sticky
 
 ----
-- José Gabriel Muñoz
+- José [Gabriel](https://www.raicesculturalcenter.org) Muñoz
 - Cuatrista
 - Interviewed by Nicole Wines and Francisco G. Gómez
 - October 20, 2019
