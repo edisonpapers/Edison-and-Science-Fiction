@@ -12,9 +12,9 @@ Almost as soon as Thomas Edison became famous for his invention of the phonograp
 
 Later in the year the satirical magazine Punch’s Almanack published a series of humorous drawings depicting Edison’s “telephonoscope,” for transmitting pictures and sound like an early television, and his “anti-gravitation underclothing.” 
 
-A more serious literary effort was a short story written by French author Villiers de l’Isle-Adam in 1878.  Inspired by the emergence of the Edison legend he conceived a story he called “L’Andréïde paradoxale d’Edison,” which he subsequently expanded into a novel entitled L’Eve future, published in 1886. In the preface to his book de l’Isle-Adam explained how the emerging Edison myth inspired his story (and would inspire others): “Henceforth, doesn’t the personage of this legend—even while the man is still alive who inspired it—belong to the world of literature?”
-
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-wizard03.jpeg left width=80%
+
+A more serious literary effort was a short story written by French author Villiers de l’Isle-Adam in 1878.  Inspired by the emergence of the Edison legend he conceived a story he called “L’Andréïde paradoxale d’Edison,” which he subsequently expanded into a novel entitled L’Eve future, published in 1886. In the preface to his book de l’Isle-Adam explained how the emerging Edison myth inspired his story (and would inspire others): “Henceforth, doesn’t the personage of this legend—even while the man is still alive who inspired it—belong to the world of literature?”
 
 This would not be the last time that Edison inspired a literary work that embodied elements of what would become known as science fiction.  Indeed, Edison himself collaborated with journalist and writer George Parsons Lathrop on a novel of the future to be entitled “Progress.” 
 
