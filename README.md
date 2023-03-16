@@ -26,7 +26,7 @@ Always willing to accommodate journalists requesting interviews, Edison also bec
 
 In 1878 the French writer named Villiers de l’Isle-Adam  was inspired by enormous press attention that was given to Thomas Edison and his newly invented phonograph to write a story he called “L’Andréïde paradoxale d’Edison.”  He subsequently expanded this into a novel entitled  L’Eve future, which was first published in 1886.  In the novel, Edison creates an android—the Eve of the title—that is not only indistinguishable from its human model but even considered a marked improvement upon it.
 
-### View "L'Eve future"
+## View "L'Eve future"
 
 .ve-iframe https://archive.org/details/lvefuture00villuoft/page/n7/mode/2up
 
