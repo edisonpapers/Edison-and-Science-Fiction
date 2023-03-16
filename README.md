@@ -35,9 +35,9 @@ Although the means by which the fictional Edison employs his phonograph, microph
 
 ## Looking Backward
 
-Edward Bellamy’s 1888 novel, Looking Backward 2000–1887, describes a futuristic society in the year 2000 to which the main character, Julian West, travels from the year 1887. He does this via suspended animation, the major mode of time travel in in early science fiction writings. In the book, West awakes in an America transformed by a non-violent revolution that abolished private property in favor of state ownership, thus eliminating social classes and social ills such as war, poverty, crime, and labor strife.
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-lookingbackward01.jpeg right
 
-.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-lookingbackward01.jpeg left
+Edward Bellamy’s 1888 novel, Looking Backward 2000–1887, describes a futuristic society in the year 2000 to which the main character, Julian West, travels from the year 1887. He does this via suspended animation, the major mode of time travel in in early science fiction writings. In the book, West awakes in an America transformed by a non-violent revolution that abolished private property in favor of state ownership, thus eliminating social classes and social ills such as war, poverty, crime, and labor strife.
 
 Looking Backward was a commentary on late 19th century issues and in it Bellamy sought to imagine solutions to real problems.  Following its publication, the book inspired numerous sequels and commentaries, as well as a real political movement through the establishment of Nationalist Clubs intended to realize Bellamy’s vision of the future. Among the book projects inspired by Looking Backward was a collaboration between journalist George Parson Lathrop and inventor Thomas Edison.
 
@@ -49,9 +49,9 @@ Looking Backward was a commentary on late 19th century issues and in it Bellamy 
 
 ## Edison and Lathrop
 
-The relationship between George Parsons Lathrop, the journalist/author and Edison, the inventor, began in 1885 when Lathrop interviewed Edison at his New York laboratory.  He reconnected with Edison again in in late 1887 and early 1888 in connection with the promotion of the inventor’s new wax-cylinder phonograph. In June 1888 Lathrop was involved in the effort to create a company to fund an amusement phonograph and also proposed a biography of the inventor to be published by Samuel Clemens’s publishing company, Charles L. Webster and Co. Neither of these ventures reached fruition but Lathrop continued to propose articles on Edison, finally publishing a new interview with him in the February 1890 issue of Harper’s New Monthly Magazine.
-
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-lathrop01.jpeg right
+
+The relationship between George Parsons Lathrop, the journalist/author and Edison, the inventor, began in 1885 when Lathrop interviewed Edison at his New York laboratory.  He reconnected with Edison again in in late 1887 and early 1888 in connection with the promotion of the inventor’s new wax-cylinder phonograph. In June 1888 Lathrop was involved in the effort to create a company to fund an amusement phonograph and also proposed a biography of the inventor to be published by Samuel Clemens’s publishing company, Charles L. Webster and Co. Neither of these ventures reached fruition but Lathrop continued to propose articles on Edison, finally publishing a new interview with him in the February 1890 issue of Harper’s New Monthly Magazine.
 
 Lathrop’s interest in collaborating with Edison on a novel of the future seems to have been inspired by earlier interviews with the inventor. At the conclusion of his 1885 article and interview, Lathrop described Edison as able to “manipulate as at will and without interruption the mysterious forces and properties of nature. In meeting him I thought of him more as a poet or a musician than as a machinist and electrician. . . .perfecting man’s control over the elements that shape life.”
 
@@ -75,9 +75,9 @@ Having “agreed with McClure to write the book by December 15th,” Lathrop fou
 
 > VIEW EDISONS NOTES FOR LATHROP 
 
-On November 22 Lathrop sent Edison “the first division of the novel (five chapters)” and returned Edison’s notes with annotations in red on sections for which he wanted “fuller details.” These may be the surviving undated notes found in Edison’s papers. Seeing substantial progress, McClure expected the story to be ready in January and in early December announcements began to appear about the story to be written by Lathrop and “filled with drawings made by Mr. Edison to illustrate his predictions”. 
-
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-collaborating03.jpeg right
+
+On November 22 Lathrop sent Edison “the first division of the novel (five chapters)” and returned Edison’s notes with annotations in red on sections for which he wanted “fuller details.” These may be the surviving undated notes found in Edison’s papers. Seeing substantial progress, McClure expected the story to be ready in January and in early December announcements began to appear about the story to be written by Lathrop and “filled with drawings made by Mr. Edison to illustrate his predictions”. 
 
 As the new year opened, Tate reported to Lathrop that Edison had “tried to dictate the notes to the phonograph, but failed. He has, however, about 56 pages of notes ready.” Lathrop even managed to meet with Edison to receive these notes  However, Lathrops’s subsequent efforts to meet with Edison, including a visit with McClure, were stymied by the inventor’s busy schedule on more important inventive projects. Lathrop succeeded in writing new chapters, which he sent to Edison in mid-May, but the inventor failed to provide any feedback and, in late June, Lathrop had to beg Edison’s wife Mina to “gather together the chapters” and send them back.
 
@@ -95,15 +95,15 @@ Lathrop continued in his efforts to arrange a meeting with Edison but the invent
 
 ## In the Deep of Time
 
-After the collaboration on “Progress” for Sidney McClure’s syndicate failed, Lathrop did not abandon the project. At the end of 1896, he finally succeeded in having a version of the story serialized by the newspaper and literary syndicate of Irving Bachellor. It was published in four parts under a new name, “In the Deep of Time.”
-
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-time01.jpeg right
+
+After the collaboration on “Progress” for Sidney McClure’s syndicate failed, Lathrop did not abandon the project. At the end of 1896, he finally succeeded in having a version of the story serialized by the newspaper and literary syndicate of Irving Bachellor. It was published in four parts under a new name, “In the Deep of Time.”
 
 The technologies depicted in the story were mainly derived from the extant set of notes with Lathrop’s annotations found in Edison’s papers. However, facsimile reproductions of other notes reproduced in the serialization suggest that Lathrop also drew on notes by Edison that no longer exist. The introduction to the story makes clear that while he relied on Edison’s notes for “suggestions as to inventions and changed mechanical, industrial and social conditions in the future,”  it was Lathrop who was solely responsible for the story.
 
-“In the Deep of Time” chronicles the experiences of Gerald Bemis, who was chosen by a secret “Society of Futurity” to be “vivifcated” (put in suspended animation) for 300 years, an idea described in Edison’s notes. 
-
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-time02.jpeg left
+
+“In the Deep of Time” chronicles the experiences of Gerald Bemis, who was chosen by a secret “Society of Futurity” to be “vivifcated” (put in suspended animation) for 300 years, an idea described in Edison’s notes. 
 
 After waking up in the 22nd century, Bemis experiences a drastically new world with unfamiliar people and futuristic technologies such as electric trains and carriages, mail carriers that fly through the air, and an “anti-gravitational machine or the interstellar express car.” The latter device enabled travel to Mars while an interplanetary telegraph system utilizing the large iron deposits found in the Penokee mountains enabled communication with the planet.
 
@@ -115,15 +115,15 @@ After exploring the future and its many new technologies, Bemis nonetheless was 
 
 ## Edisonades
 
-Between 1891 and 1892, the Nugget Library published a series of dime novels depicting the adventures of Tom Edison, Jr.  Although the protaganist is an orphan unrelated to Thomas Edison, both his name and his inventiveness connect him to the inventor.  So too does the name “Edisonades” given by scholars to this genre of dime novels. Drawing  on the mythology surrounding Thomas Edison, it designates dime novels in which a young male protagonist uses his inventions to save innocents from a threatening power. 
-
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-edisonades01.jpeg right
+
+Between 1891 and 1892, the Nugget Library published a series of dime novels depicting the adventures of Tom Edison, Jr.  Although the protaganist is an orphan unrelated to Thomas Edison, both his name and his inventiveness connect him to the inventor.  So too does the name “Edisonades” given by scholars to this genre of dime novels. Drawing  on the mythology surrounding Thomas Edison, it designates dime novels in which a young male protagonist uses his inventions to save innocents from a threatening power. 
 
 The first dime novel to feature a boy inventor was Edward S Ellis’s The Steam Man of the Praries, published in 1868.
 
-Philip Reade, the author of the Tom Edison, Jr. series, was among those influenced Ellis. Reade’s works included Tom Edison Jr.’s Electric Sea Spider and Tom Edison Jr.’s Electric Mule.  A subsequent group of dime novels known as the Frank Reade Jr. series, written by Luis P. Senarens from 1882 to 1898, depict the adventures of Frank Reade’s inventor son who creates inventions such as submarines, vehicles and airships.
-
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-edisonades02.jpeg left
+
+Philip Reade, the author of the Tom Edison, Jr. series, was among those influenced Ellis. Reade’s works included Tom Edison Jr.’s Electric Sea Spider and Tom Edison Jr.’s Electric Mule.  A subsequent group of dime novels known as the Frank Reade Jr. series, written by Luis P. Senarens from 1882 to 1898, depict the adventures of Frank Reade’s inventor son who creates inventions such as submarines, vehicles and airships.
 
 The most famous of the juvenile Edisonades are the Tom Swift novels created by Edward Stratemeyer under the pseudonym Victor Appelton.  These well-known stories depict a teenage boy inventor-hero who devices an amazing variety of inventions he uses to explore the world and save the day. The Tom Swift books have been published in a number of series up until the present day, making him a particularly long-lived fictional character linked to Thomas Edison.
 
@@ -131,9 +131,9 @@ The most famous of the juvenile Edisonades are the Tom Swift novels created by E
 
 ## Edison's Conquest of Mars
 
-In 1897, H.G. Wells’s The War of the Worlds was serialized in the British journal Pearson’s Magazine and in the American magazine Cosmopolitan before it was published as a book. This popular serialized story soon appeared in unauthorized and heavily revised versions in several American newspapers using alternative titles, such as “Fighters from Mars” in the New York Evening Journal and “The War of the Worlds in and Near Boston” in the Boston Post. These unauthorized serializations, made possible by the very lax U.S. copyright laws, inspired the publication of an unauthorized sequel titled “Edison’s Conquest of Mars.”
-
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-mars01.png right
+
+In 1897, H.G. Wells’s The War of the Worlds was serialized in the British journal Pearson’s Magazine and in the American magazine Cosmopolitan before it was published as a book. This popular serialized story soon appeared in unauthorized and heavily revised versions in several American newspapers using alternative titles, such as “Fighters from Mars” in the New York Evening Journal and “The War of the Worlds in and Near Boston” in the Boston Post. These unauthorized serializations, made possible by the very lax U.S. copyright laws, inspired the publication of an unauthorized sequel titled “Edison’s Conquest of Mars.”
 
 This sequel was commissioned by Arthur Brisbane, editor of the New York Evening Journal and was written by George Serviss, an author and lecturer known for his work on astronomy. As a consequence of this commission, Serviss would publish a number of science fiction stories. At Brisbane’s urging, Serviss called on Edison in the hopes that he would agree to collaborate on the story. 
 
