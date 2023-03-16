@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Edison's finger",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/769780efb61139271deb7ae1b5857da9dc763aca686e0300f5da0a93b92c504a",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:445.5289611816406,281.9772033691406,70.26345825195312,109.25747680664062"
+      },
+      "id": "769780ef"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f2c5674b"
+  }
+]
