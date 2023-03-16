@@ -1,4 +1,4 @@
-.ve-header "Edison-and-Science-Fiction" https://edisondigital.rutgers.edu/iiif/MA001 "Configured by TAEP Team" pct:3,23,80,20 center sticky
+.ve-header "Edison-and-Science-Fiction" https://edison.rutgers.edu/images/sci-fi/sci-fi-wizard03.jpeg "Configured by TAEP Team" pct:3,23,80,20 center sticky
 
 ## Introduction 
 
