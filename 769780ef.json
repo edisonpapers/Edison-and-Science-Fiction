@@ -19,5 +19,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "f2c5674b"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Wagon wheel",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/769780efb61139271deb7ae1b5857da9dc763aca686e0300f5da0a93b92c504a",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:833.5138549804688,428.2071533203125,70.15924072265625,71.987060546875"
+      },
+      "id": "769780ef"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a8d5cfce"
   }
 ]
