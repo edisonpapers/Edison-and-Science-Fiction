@@ -52,8 +52,7 @@ Villiers describes the transformation of Edison from man to myth In the [preface
 
 Edward Bellamy’s 1888 novel, [*Looking Backward 2000–1887*](https://babel.hathitrust.org/cgi/pt?id=dul1.ark:/13960/t66401k8k&view=1up&seq=1), describes a futuristic society in the year 2000 to which the main character, Julian West, travels from the year 1887. He does this via [suspended animation](http://www.sf-encyclopedia.com/entry/suspended_animation), the major mode of time travel in in early science fiction writings. In the book, West awakes in an America transformed by a non-violent revolution that abolished private property in favor of state ownership, thus eliminating social classes and social ills such as war, poverty, crime, and labor strife.
 
-*Looking Backward* was a commentary on late 19th century issues and in it Bellamy sought to imagine solutions to real problems.  Following its publication, the book inspired numerous sequels and commentari
-es, as well as a real political movement through the establishment of Nationalist Clubs intended to realize Bellamy’s vision of the future. Among the book projects inspired by *Looking Backward* was a collaboration between journalist George Parson Lathrop and inventor Thomas Edison.
+*Looking Backward* was a commentary on late 19th century issues and in it Bellamy sought to imagine solutions to real problems.  Following its publication, the book inspired numerous sequels and commentaries, as well as a real political movement through the establishment of Nationalist Clubs intended to realize Bellamy’s vision of the future. Among the book projects inspired by *Looking Backward* was a collaboration between journalist George Parson Lathrop and inventor Thomas Edison.
 
 ## Read *Looking Backward*
 
@@ -157,7 +156,6 @@ Philip Reade, the author of the Tom Edison, Jr. series, was among those influenc
 
 The most famous of the juvenile Edisonades are the Tom Swift novels created by Edward Stratemeyer under the pseudonym Victor Appelton.  These well-known stories depict a teenage boy inventor-hero who devices an amazing variety of inventions he uses to explore the world and save the day. The Tom Swift books have been published in a number of series up until the present day, making him a particularly long-lived fictional character linked to Thomas Edison.
 
-
 ## H.G. Wells's The War of the Worlds
 
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-mars01.png left width=80%
@@ -202,6 +200,7 @@ Edison expressed his own concerns about the story in a [January 14 telegram](htt
 .ve-media https://edisondigital.rutgers.edu/iiif/LB059657 right width=80%
 
 ----- 
+
 ## Listen and Read
 
 #### Listen to Edison's Conquest of Mars
@@ -214,11 +213,11 @@ Edison expressed his own concerns about the story in a [January 14 telegram](htt
 
 ## Edison's Speculations on the Future
 
-Besides appearing in and influencing early science fiction, Edison’s own visions of the future appeared in newspaper and magazine interviews. Edison’s earliest speculations concerned future applications off his phonograph inventions that appeared in (https://www.jstor.org/stable/25110210) and (https://www.jstor.org/stable/25110210).  His first interviews in which he touched on future discoveries were the interviews conducted by George Parsons Lathrop discussed earlier in this exhibit.  The earliest were his interviews with George Parsons Lathrop discussed earlier in this exhibit.   
+Besides appearing in and influencing early science fiction, Edison’s own visions of the future appeared in newspaper and magazine interviews. Edison’s earliest speculations concerned future applications off his phonograph inventions that appeared in 1878 and 1888. His first interviews in which he touched on future discoveries were the interviews conducted by George Parsons Lathrop discussed earlier in this exhibit.
 
 ## Read Edison's Speculations About the Phonograph
 
-.ve-media https://edisondigital.rutgers.edu/iiif/PA016 left caption="to be replaced with 1878 The Phonograph & Its Future" width=80%
+.ve-media https://edisondigital.rutgers.edu/iiif/PA016 left width=80% caption="To be replaced with PA122 when added"
 
 .ve-media https://edisondigital.rutgers.edu/iiif/PA016 right width=80%
 
