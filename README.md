@@ -1,6 +1,6 @@
-.ve-header "Edison and Science Fiction" default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-wizard03.jpeg "A Digital Exhibit" pct:3,23,80,20 center sticky
+.ve-header "Edison and Science Fiction" default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-wizard03.jpeg "A Visual Essay" pct:3,23,80,20 center sticky
 
-This exhibit is a collaboration between intern Brianna Leider from the Rutgers Public History Certificate program, ==Edison Papers=={Q107417971} Director Paul Israel, and Nicole Wines, who helps the project develop its digital and public humanities outreach.
+This visual essay is a collaboration between intern Brianna Leider from the Rutgers Public History Certificate program, ==Edison Papers=={Q107417971} Director Paul Israel, and Nicole Wines, who helps the project develop its digital and public humanities outreach.
 
 ## Introduction 
 
